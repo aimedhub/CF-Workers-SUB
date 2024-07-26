@@ -1,19 +1,18 @@
 
 // 部署完成后在网址后面加上这个，获取自建节点和机场聚合节点，/?token=auto或/auto或
 
-let mytoken = 'auto'; //可以随便取，或者uuid生成，https://1024tools.com/uuid
-let BotToken =''; //可以为空，或者@BotFather中输入/start，/newbot，并关注机器人
-let ChatID =''; //可以为空，或者@userinfobot中获取，/start
-let TG = 0; //小白勿动， 开发者专用，1 为推送所有的访问信息，0 为不推送订阅转换后端的访问信息与异常访问
-let FileName = 'CF-Workers-SUB';
+let mytoken = 'aimedhub'; //可以随便取，或者uuid生成，https://1024tools.com/uuid
+let BotToken ='7112841910:AAHzHgOd8bugIS4PHySy_S0o94xnBR5wcoE'; //可以为空，或者@BotFather中输入/start，/newbot，并关注机器人
+let ChatID ='6590320173'; //可以为空，或者@userinfobot中获取，/start
+let TG = 1; //小白勿动， 开发者专用，1 为推送所有的访问信息，0 为不推送订阅转换后端的访问信息与异常访问
+let FileName = '微信:YiXueShangWang';
 let SUBUpdateTime = 6; //自定义订阅更新时间，单位小时
 let total = 99;//TB
 let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
-https://sub.xf.free.hr/auto
-https://WARP.fxxk.dedyn.io/auto
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkFcdTVGQUVcdTRGRTFcdTgwNTRcdTdDRkJcdUZGMUFZaVh1ZVNoYW5nV2FuZyIsDQogICJhZGQiOiAiMC5haWRucy5vcmciLA0KICAicG9ydCI6ICI4MCIsDQogICJpZCI6ICI1NjhkMjJhMy0xOTg2LTQ5YzgtYTdlOS1hNjY1MzNkYWVjMjkiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIjAuYWlkbnMub3JnIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
 `
 
 let urls = [];
