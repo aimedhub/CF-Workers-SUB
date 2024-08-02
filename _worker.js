@@ -10,10 +10,9 @@ let SUBUpdateTime = 6; //自定义订阅更新时间，单位小时
 let total = 99;//TB
 let timestamp = 4102329600000;//2099-12-31
 
-//节点链接 + 订阅链接
+//节点链接 + 订阅链接  https://dy.ssysub6.xyz/api/v1/client/subscribe?token=ec6df1627a600ae93db71d1cfd7f2941
 let MainData = `
 https://aivps.cc/api/v1/client/subscribe?token=04bb8a00cb934708d146062f05e787d3
-https://dy.ssysub6.xyz/api/v1/client/subscribe?token=ec6df1627a600ae93db71d1cfd7f2941
 `
 
 let urls = [];
