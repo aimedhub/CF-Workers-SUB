@@ -12,7 +12,7 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
-https://aivps.cc/api/v1/client/subscribe?token=6d3754a209e1d2e5af14e8724a3ea97a
+https://aivps.cc/api/v1/client/subscribe?token=04bb8a00cb934708d146062f05e787d3
 https://dy.ssysub6.xyz/api/v1/client/subscribe?token=ec6df1627a600ae93db71d1cfd7f2941
 `
 
