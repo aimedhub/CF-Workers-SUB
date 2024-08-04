@@ -12,7 +12,7 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接  https://dy.ssysub6.xyz/api/v1/client/subscribe?token=ec6df1627a600ae93db71d1cfd7f2941
 let MainData = `
-https://chatgpt.aivpn.uk/api/v1/client/subscribe?token=c9860e2f8ab173e34be3edb41ece50ce
+https://chatgpt.aivps.cc/api/v1/client/subscribe?token=2fa16493a24510a9eb42c3649d26388c
 https://dy.ssysub6.xyz/api/v1/client/subscribe?token=ec6df1627a600ae93db71d1cfd7f2941
 `
 
