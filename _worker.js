@@ -241,9 +241,9 @@ async function nginx() {
 	<p>If you see this page, our website is on the way.</p>
 	
 	<p>For online documentation and support please refer to
-	<a href="http://aivps.cc</a>.<br/>
+	<a href="http://aidns.org</a>.<br/>
 	Commercial support is available at
-	<a href="http://aivps.cc/">aivps.cc</a>.</p>
+	<a href="http://aidns.org/">aidns.org</a>.</p>
 	
 	<p><em>Thank you.</em></p>
 	</body>
