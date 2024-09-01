@@ -237,16 +237,15 @@ async function nginx() {
 	</style>
 	</head>
 	<body>
-	<h1>Welcome to nginx!</h1>
-	<p>If you see this page, the nginx web server is successfully installed and
-	working. Further configuration is required.</p>
+	<h1>Welcome to our website!</h1>
+	<p>If you see this page, our website is on the way.</p>
 	
 	<p>For online documentation and support please refer to
-	<a href="http://nginx.org/">nginx.org</a>.<br/>
+	<a href="http://baidu.com</a>.<br/>
 	Commercial support is available at
-	<a href="http://nginx.com/">nginx.com</a>.</p>
+	<a href="http://baidu.com/">baidu.com</a>.</p>
 	
-	<p><em>Thank you for using nginx.</em></p>
+	<p><em>Thank you.</em></p>
 	</body>
 	</html>
 	`
