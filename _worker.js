@@ -12,6 +12,7 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接  https://dy.ssysub6.xyz/api/v1/client/subscribe?token=ec6df1627a600ae93db71d1cfd7f2941      https://aivps.cc/api/v1/client/subscribe?token=ed7df9029570c7e1c6abcaa946d936fa
 let MainData = `
+https://sub.aidns.org/api/v1/client/subscribe?token=d5e641f89fd7769f0547861ade28a9a6
 https://su.xfjhchr.com:8888/api/v1/client/subscribe?token=6c2e543da0e224592c13a9ec61bbe490
 `
 
