@@ -1,7 +1,7 @@
 
 // 部署完成后在网址后面加上这个，获取自建节点和机场聚合节点，/?token=auto或/auto或
 
-let mytoken = 'alksdjfzdfahj89&^*&^&^qw74r0asuidfjshdfkzhfsjdhfoqerfhsdcvzhjsdv!@asdf';
+let mytoken = 'aimedhub';
 let guestToken = 'abcd'; //可以随便取，或者uuid生成，https://1024tools.com/uuid
 let BotToken = '7112841910:AAHzHgOd8bugIS4PHySy_S0o94xnBR5wcoE'; //可以为空，或者@BotFather中输入/start，/newbot，并关注机器人
 let ChatID = '6590320173'; //可以为空，或者@userinfobot中获取，/start
@@ -13,13 +13,6 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
-https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray
-https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list_raw.txt
-https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
-https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
-https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/airport_sub_merge.txt
-https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/sub_merge.txt
-https://raw.githubusercontent.com/Pawdroid/Free-servers/refs/heads/main/sub
 https://su.xfjhchr.com:8888/api/v1/client/subscribe?token=3f75ac1f6bad5cfe1e0787dfd90d88f0
 `
 
